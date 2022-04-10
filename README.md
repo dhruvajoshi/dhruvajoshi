@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://in.linkedin.com/in/dhruvajoshi"><img src="https://img.shields.io/badge/-kshitijnariya-0077B5?style=social&logo=Linkedin&logoColor=0077B5"/></a>
+<a href="https://in.linkedin.com/in/dhruvajoshi"><img src="https://img.shields.io/badge/-dhruvajoshi-0077B5?style=social&logo=Linkedin&logoColor=0077B5"/></a>
   &nbsp;&nbsp;
 </p>
 <p align="right">
