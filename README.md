@@ -37,7 +37,7 @@
 ![GoogleCloud](http://img.shields.io/badge/googlecloud-white?style=for-the-badge&logo=googlecloud&logoColor=1a73e8)
 ![AWS](http://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazon&logoColor=ff9d00)
 <br>
-
+<!-- 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,7 +46,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvajoshi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+ -->
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
